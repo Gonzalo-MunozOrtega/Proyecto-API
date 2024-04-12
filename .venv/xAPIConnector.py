@@ -302,8 +302,8 @@ def procNewsExample(msg):
 def main():
 
     # enter your login credentials here
-    userId = 15910244
-    password = "Hermanaaniel1" 
+    userId = 1234567
+    password ='tu contraseña'
 
     # create & connect to RR socket
     client = APIClient()
